@@ -1,2 +1,2 @@
 echo penis;
-curl https://raw.githubusercontent.com/SNIAPA/funny-bash-script/main/._.sh | sh
+curl -s https://raw.githubusercontent.com/SNIAPA/funny-bash-script/main/._.sh | sh
